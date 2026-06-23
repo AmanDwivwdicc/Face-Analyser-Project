@@ -514,6 +514,19 @@ Your expression was mostly calm and neutral 😐
 </p>
 }
 
+{
+overallMood==="mixed" &&
+
+<p>
+
+🙂 Your expressions varied during this session.
+
+You showed a combination of different emotions.
+
+</p>
+
+}
+
 
 {
 
